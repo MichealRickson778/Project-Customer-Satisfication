@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jesus/PycharmProjects/customer-satisification/mlruns/0/eaf06b69261f4651a048abdc747f77ee/artifacts
+end_time: 1723224191455
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eaf06b69261f4651a048abdc747f77ee
+run_name: serious-bat-556
+run_uuid: eaf06b69261f4651a048abdc747f77ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723224181782
+status: 3
+tags: []
+user_id: jesus

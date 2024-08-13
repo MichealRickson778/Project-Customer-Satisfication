@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jesus/PycharmProjects/customer-satisification/mlruns/0/12ddeef4fc644ea68e289cf9517b9e60/artifacts
+end_time: 1723224197314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12ddeef4fc644ea68e289cf9517b9e60
+run_name: glamorous-ram-942
+run_uuid: 12ddeef4fc644ea68e289cf9517b9e60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723224193981
+status: 3
+tags: []
+user_id: jesus
